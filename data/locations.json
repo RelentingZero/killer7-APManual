@@ -1,0 +1,1779 @@
+[
+  {
+    "name": "(T00) Talk To Travis In Elevator",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00 Angel"
+    ],
+    "requires": []
+  },
+  {
+    "name": "(T00) Talk To Travis In Parking Lot",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00 Angel"
+    ],
+    "requires": []
+  },
+  {
+    "name": "(T00) Parking Lot Soul Shell",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00 Angel"
+    ],
+    "requires": []
+  },
+  {
+    "name": "(T00) Talk To Travis Near Laundry",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00 Angel"
+    ],
+    "requires": []
+  },
+  {
+    "name": "(T00) Turned Off Air Conditioner",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00 Angel"
+    ],
+    "requires": []
+  },
+  {
+    "name": "(T00) Read \"Still Ill\" Memo",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00 Angel"
+    ],
+    "requires": []
+  },
+  {
+    "name": "(T00) Recieved Fire Ring From Susie",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00 Angel"
+    ],
+    "requires": []
+  },
+  {
+    "name": "(T00) Picked Up Odd Engraving 1",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00 Angel"
+    ],
+    "requires": "|Fire Ring|"
+  },
+  {
+    "name": "(T00) Solved Sprinkler Puzzle",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00 Angel"
+    ],
+    "requires": "|Fire Ring|"
+  },
+  {
+    "name": "(T00) Picked Up Odd Engraving 2",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00 Angel"
+    ],
+    "requires": "|Fire Ring|"
+  },
+  {
+    "name": "(T00) Used Both Odd Engravings",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2"
+  },
+  {
+    "name": "(T00) Read \"Rusholm Ruffians\" Memo",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2 AND |MASK De Smith (Target00 Angel)|"
+  },
+  {
+    "name": "(T00) Talk To Travis In Library",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2 AND |MASK De Smith (Target00 Angel)|"
+  },
+  {
+    "name": "(T00) Soul Shell Behind Fake Wall",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2"
+  },
+  {
+    "name": "(T00) Talk To Travis In Room 406",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2"
+  },
+  {
+    "name": "(T00) Solved 2 Letter Puzzle",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2"
+  },
+  {
+    "name": "(T00) Talk To Travis After Letter Puzzle",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2"
+  },
+  {
+    "name": "(T00) Enter Vinculum Gate",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2 AND |Progressive Soul Shell (Target00 Angel)|:2"
+  },
+  {
+    "name": "(T00) Defeated Speed Smile",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2 AND |Progressive Soul Shell (Target00 Angel)|:2"
+  },
+  {
+    "name": "(T00) Talk To Travis Before Angel Fight",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2 AND |Progressive Soul Shell (Target00 Angel)|:2"
+  },
+  {
+    "name": "(T00) \"Killed\" Angel",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2 AND |Progressive Soul Shell (Target00 Angel)|:2"
+  },
+  {
+    "name": "(T00) Shot Kun Lan",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2 AND |Progressive Soul Shell (Target00 Angel)|:2",
+    "place_item": [
+      "Progressive Target Killed"
+    ]
+  },
+  {
+    "name": "(T00) Finished Target00: Angel",
+    "region": "Target00: Angel",
+    "category": [
+      "Target00: Angel"
+    ],
+    "requires": "|Fire Ring| AND |Progressive Odd Engraving (Target00 Angel)|:2 AND |Progressive Soul Shell (Target00 Angel)|:2"
+  },
+  {
+    "name": "(T1P1) Recieved Mission From Harman",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  {
+    "name": "(T1P1) Wake Up Dan Smith",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  {
+    "name": "(T1P1) Wake Up Kevin Smith",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  {
+    "name": "(T1P1) Wake Up Con Smith",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  {
+    "name": "(T1P1) Headbutt Rock",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  {
+    "name": "(T1P1) Read \"Well I Wonder\" Memo",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  {
+    "name": "(T1P1) Talk To Travis In Waiting Room",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  {
+    "name": "(T1P1) Recieved Water Ring From Susie",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  {
+    "name": "(T1P1) Talk To Travis In Courtyard",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  {
+    "name": "(T1P1) Talk To Travis After Fake Tree",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  {
+    "name": "(T1P1) Picked Up Odd Engraving",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring|"
+  },
+  {
+    "name": "(T1P1) Talk To Kneeling Travis",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  {
+    "name": "(T1P1) Read \"Meat Is Murder\" Memo",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring|"
+  },
+  {
+    "name": "(T1P1) German Suplexed Wooden Planks",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring|"
+  },
+  {
+    "name": "(T1P1) Read \"Back To The Oldhouse\" Memo",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring|"
+  },
+  {
+    "name": "(T1P1) Talk To Travis In Northern Four Lord Room",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring|"
+  },
+  {
+    "name": "(T1P1) Finished Four Lords Puzzle",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring|"
+  },
+  {
+    "name": "(T1P1) Picked Up Soul Shell",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring|"
+  },
+  {
+    "name": "(T1P1) Enter Vinculum Gate",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P1) Killed Phantom Smile",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P1) Talk With Travis Before Julia Fight",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P1) Killed Julia Kisugi",
+    "region": "Target01: Sunset Part 1",
+    "category": [
+      "Target01: Sunset Part 1"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Left Trailer",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Woke Up Dan Smith",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Woke Up KAEDE Smith",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Woke Up Con Smith",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Solved Vending Machine Puzzle",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Turned Off Electrical Panel",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Picked Up Dice Puzzle Soul Shell",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Talked To Travis Near Dice Puzzle",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Royal Flush Puzzle Soul Shell",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Horse Race Puzzle Soul Shell",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Picked Up Odd Engraving",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Talked To Travis On 4th Floor",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Hanafuda Puzzle Soul Shell",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)|"
+  },
+  {
+    "name": "(T1P2) Passed Through Vinculum Gate",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)| AND |Progressive Soul Shell (Target01 Sunset Part 2):4|"
+  },
+  {
+    "name": "(T1P2) Defeated Backside Smile",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)| AND |Progressive Soul Shell (Target01 Sunset Part 2):4|"
+  },
+  {
+    "name": "(T1P2) Killed Agent Jean De Paul",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)| AND |Progressive Soul Shell (Target01 Sunset Part 2):4|",
+    "place_item": [
+      "Progressive Target Killed"
+    ]
+  },
+  {
+    "name": "(T1P2) Watched Mahjong Cutscene",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)| AND |Progressive Soul Shell (Target01 Sunset Part 2):4|"
+  },
+  {
+    "name": "(T1P2) Retrieved Wind Ring From Susie",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)| AND |Progressive Soul Shell (Target01 Sunset Part 2):4|"
+  },
+  {
+    "name": "(T1P2) Talked To Travis In Mahjong Room",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)| AND |Progressive Soul Shell (Target01 Sunset Part 2):4|"
+  },
+  {
+    "name": "(T1P2) Killed Kurahashi And Akiba",
+    "region": "Target01: Sunset Part 2",
+    "category": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset| AND |Water Ring| AND |Soul Shell (Target01 Sunset Part 1)| AND |Progressive Soul Shell (Target01 Sunset Part 2):4|"
+  },
+  {
+    "name": "(T02) Challenged By Andrei Ulmeyda",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman|"
+  },
+  {
+    "name": "(T02) Recieved Orders From Harman",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman|"
+  },
+  {
+    "name": "(T02) Talked To Travis Outside Ulmeyda City",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman|"
+  },
+  {
+    "name": "(T02) Recieved Stamina Ring From Susie",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman|"
+  },
+  {
+    "name": "(T02) Woke Up Dan Smith",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman|"
+  },
+  {
+    "name": "(T02) Woke Up Con Smith",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman|"
+  },
+  {
+    "name": "(T02) Woke Up Kevin Smith",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman|"
+  },
+  {
+    "name": "(T02) Talked To Travis Outside Gas Station",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman|"
+  },
+  {
+    "name": "(T02) Read \"Half A Person\" Memo",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman|"
+  },
+  {
+    "name": "(T02) Picked Up Odd Engraving",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring|"
+  },
+  {
+    "name": "(T02) Solved Letter Lock Puzzle",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 1",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 2",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 3",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 4",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 5",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 6",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 8",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 9",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 10",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 11",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 12",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Opened Drug Store",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Recieved Ulmeyda Collection 7",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)|"
+  },
+  {
+    "name": "(T02) Entered Post Office",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)| AND |Progressive Ulmeyda Collection:10| AND |Ulmeyda Collection #7| AND |Ulmeyda Collection #12|"
+  },
+  {
+    "name": "(T02) Talked To Travis Outside Mountain Path",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)| AND |Progressive Ulmeyda Collection:10| AND |Ulmeyda Collection #7| AND |Ulmeyda Collection #12|"
+  },
+  {
+    "name": "(T02) Talked To Travis Near Ulmeyda Quiz",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)| AND |Progressive Ulmeyda Collection:10| AND |Ulmeyda Collection #7| AND |Ulmeyda Collection #12|"
+  },
+  {
+    "name": "(T02) Solved Ulmeyda Quiz",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)| AND |Progressive Ulmeyda Collection:10| AND |Ulmeyda Collection #7| AND |Ulmeyda Collection #12|"
+  },
+  {
+    "name": "(T02) Killed Andrei Ulmeyda",
+    "region": "Target02: Cloudman",
+    "category": [
+      "Target02: Cloudman"
+    ],
+    "requires": "|Target02 Cloudman| AND |Water Ring| AND |Odd Engraving (Target02 Cloudman)| AND |Progressive Ulmeyda Collection:10| AND |Ulmeyda Collection #7| AND |Ulmeyda Collection #12|",
+    "place_item": [
+      "Progressive Target Killed"
+    ]
+  },
+  {
+    "name": "(T3P1) Witnessed Curtis' Massacre",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "region": "Target03: Encounter Part 1",
+    "name": "(T3P1) Recieved Orders From Harman",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Left Trailer",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Woke Up Dan Smith",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Woke Up KAEDE Smith",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Woke Up Kevin Smith",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Talked To Travis Outside ISZK Land",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Recieved MASK Upgrade",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Opened ISZK Land",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Talk To Travis In Cinema 3",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Recieved Time Ring From Susie",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Obtained Odd Engraving",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring|"
+  },
+  {
+    "name": "(T3P1) Picked Up ISZK Cinema Soul Shell",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)|"
+  },
+  {
+    "name": "(T3P1) Talked To Travis Outside House Of Mirrors",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Cleared Whack A Mouse Game",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Cleared Burning Hot Hell",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter| AND |Wind Ring|"
+  },
+  {
+    "name": "(T3P1) Banished The Demonic Gorillas",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter| AND |Wind Ring|"
+  },
+  {
+    "name": "(T3P1) Dan Upgrade And Fun House Soul Shell",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter| AND |Wind Ring|"
+  },
+  {
+    "name": "(T3P1) Talked To Travis In Killer Mansion",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Recieved Soul Shell From Travis",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  {
+    "name": "(T3P1) Pass Through Vinculum Gate",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P1) Killed Mythril Smile",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P1) Talked To Travis Before Ayame Blackburn Fight",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P1) Defeated Ayame Blackburn",
+    "region": "Target03: Encounter Part 1",
+    "category": [
+      "Target03: Encounter Part 1"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Left Trailer",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Watched Curtis Kill Pedro",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Talked To Travis Outside Blackburn Residence",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Picked Up Statue Soul Shell",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Woke Up KAEDE Smith",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Woke Up Coyote Smith",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Recieved Power Ring From Susie",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Picked Up Odd Engraving 1",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Picked Up Fireplace Soul Shell",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Read \"Rubber Ring\" Memo",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Picked Up Coo-Coo Clock Soul Shell",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Deactivated Security System",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Talk To Travis Near Odd Engraving",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Picked Up Odd Engraving 2",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Killed Ayame Blackburn",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Talked To Travis Near Pool",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3|"
+  },
+  {
+    "name": "(T3P2) Drained Pool",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3| AND |Progressive Odd Engraving (Target03 Encounter Part 2):2|"
+  },
+  {
+    "name": "(T3P2) Talk To Travis In Broken Wall",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3| AND |Progressive Odd Engraving (Target03 Encounter Part 2):2|"
+  },
+  {
+    "name": "(T3P2) Passed Through Vinculum Gate",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3| AND |Progressive Odd Engraving (Target03 Encounter Part 2):2|"
+  },
+  {
+    "name": "(T3P2) Killed Laser Smile",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3| AND |Progressive Odd Engraving (Target03 Encounter Part 2):2|"
+  },
+  {
+    "name": "(T3P2) Killed Curtis Blackburn",
+    "region": "Target03: Encounter Part 2",
+    "category": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter| AND |Time Ring| AND |Wind Ring| AND |Odd Engraving (Target03 Encounter Part 1)| AND |Progressive Soul Shell (Target03 Encounter Part 1):3| AND |Progressive Odd Engraving (Target03 Encounter Part 2):2|",
+    "place_item": [
+      "Progressive Target Killed"
+    ]
+  },
+  {
+    "name": "(T04) Watched The News",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Left Trailer",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Recieved Tip From Christopher",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Recieved Color Sample 1 From Iwazaru",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Recieved Color Sample 2 From Iwazaru",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Woke Up KAEDE Smith",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Woke Up Kevin Smith",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Woke Up Coyote Smith",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Recieved Color Sample 3 From Iwazaru",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Recieved Color Sample 4 From Iwazaru",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Recieved Color Sample 5 From Iwazaru",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Recieved Color Sample 6 From Iwazaru",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Revealed Secret Wallway",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Fire Ring|"
+  },
+  {
+    "name": "(T04) Defeated Heaven Smile Nest",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Fire Ring|"
+  },
+  {
+    "name": "(T04) Talk To Travis After Heaven Smile Nest",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Fire Ring|"
+  },
+  {
+    "name": "(T04) Recieved Color Sample 7 From Iwazaru",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Fire Ring|"
+  },
+  {
+    "name": "(T04) Picked Up Odd Engraving",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Fire Ring|"
+  },
+  {
+    "name": "(T04) Recieved Color Sample 8 From Iwazaru",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Talk To Travis In Foyer",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Opened Gate To Trevor's Mansion",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Wind Ring|"
+  },
+  {
+    "name": "(T04) Opened Shortcuts",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Fire Ring|"
+  },
+  {
+    "name": "(T04) Talk To Travis Past Fake Wall",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |KAEDE Smith (Target04 Alter Ego)|"
+  },
+  {
+    "name": "(T04) Talk To Travis On Roof",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Coyote Smith (Target04 Alter Ego)|"
+  },
+  {
+    "name": "(T04) Recieved Color Sample 9 From Iwazaru",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego|"
+  },
+  {
+    "name": "(T04) Opened Trevor's Mansion",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Time Ring| AND |Wind Ring| AND |Progressive Color Sample:9| AND |Odd Engraving (Target04 Alter Ego)|"
+  },
+  {
+    "name": "(T04) Watched Trevor Pearlharbor Die",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Time Ring| AND |Wind Ring| AND |Progressive Color Sample:9| AND |Odd Engraving (Target04 Alter Ego)|",
+    "place_item": [
+      "Progressive Target Killed"
+    ]
+  },
+  {
+    "name": "(T04) Killed The Handsomemen",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Time Ring| AND |Wind Ring| AND |Progressive Color Sample:9| AND |Odd Engraving (Target04 Alter Ego)|",
+    "place_item": [
+      "Progressive Target Killed"
+    ]
+  },
+  {
+    "name": "(T04) Left Trailer Again",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Time Ring| AND |Wind Ring| AND |Progressive Color Sample:9| AND |Odd Engraving (Target04 Alter Ego)|"
+  },
+  {
+    "name": "(T04) Recieved MASK Upgrade 2",
+    "region": "Target04: Alter Ego",
+    "category": [
+      "Target04: Alter Ego"
+    ],
+    "requires": "|Target04 Alter Ego| AND |Time Ring| AND |Wind Ring| AND |Progressive Color Sample:9| AND |Odd Engraving (Target04 Alter Ego)|"
+  },
+  {
+    "name": "(T5P1) Watched A Dude Get Blown Off A Building",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile|"
+  },
+  {
+    "name": "(T5P1) Entered Forbidden Room",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile|"
+  },
+  {
+    "name": "(T5P1) Left Trailer",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile|"
+  },
+  {
+    "name": "(T5P1) Watched Christopher Mills Die",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile|"
+  },
+  {
+    "name": "(T5P1) Picked Up Lobby Soul Shell",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile|"
+  },
+  {
+    "name": "(T5P1) Picked Up Room 203 Soul Shell",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile|"
+  },
+  {
+    "name": "(T5P1) Picked Up Room 306 Soul Shell",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile|"
+  },
+  {
+    "name": "(T5P1) Picked Up Room 404 Soul Shell",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile|"
+  },
+  {
+    "name": "(T5P1) Picked Up Room 503 Soul Shell",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile| AND |Fire Ring|"
+  },
+  {
+    "name": "(T5P1) Talked To Travis In Room 606",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile|"
+  },
+  {
+    "name": "(T5P1) Picked Up Room 606 Soul Shell",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile|"
+  },
+  {
+    "name": "(T5P1) Picked Up Floor 7 Soul Shell",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring|"
+  },
+  {
+    "name": "(T5P1) Passed Through Vinculum Gate",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P1) Killed Timer Smile",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P1) Attended Secret Meeting",
+    "region": "Target05: Smile Part 1",
+    "category": [
+      "Target05: Smile Part 1"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Left Trailer",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Recieved Tip From Linda Vermillion",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Talk To Travis Outside Hargrave Elementary",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Picked Up Second Floor Cassette Tape",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Talked To Travis Excercising",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Recieved Cassette Player",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Read \"Cemetry Gates\" Memo",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Recieved Ladies Room Casette Tape",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Picked Up Classroom Casette Tape",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Picked Up Second Classroom Cassette Tape",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Picked Up Science Room Cassette Tape",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Picked Up Garffiti'd Room Cassette Tape",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Picked Up L3F Cassette Tape",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5(T5P2) Picked Up Change The World Classroom Casette Tape",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Picked Up Locker 666 Casette Tape",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Picked Up Locker 666 Soul Shell",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Talked To Travis In Locker 656",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Picked Up Iron Mask Upgrade",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Solved Locker Puzzle",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Killed Cafeteria Heavens Smile Nest",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7|"
+  },
+  {
+    "name": "(T5P2) Passed Through Final Vinculum Gate",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Killed Galactic Tomahawk Smile",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Picked Up Library Cassette",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Played Russian Roulette",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)|",
+    "place_item": [
+      "Progressive Target Killed"
+    ]
+  },
+  {
+    "name": "(T5P2) Picked Up Odd Engraving",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Started Emir Puzzle",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)| AND |Odd Engraving (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Unlocked Gymnasium",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)| AND |Odd Engraving (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Talk To Travis For The Last Time",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)| AND |Odd Engraving (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Picked Up Golden Gun",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)| AND |Odd Engraving (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Killed Greg Nightmare",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)| AND |Odd Engraving (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Left Trailer For The Last Time",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)| AND |Odd Engraving (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Learned The Truth Behind The Smith's Deaths",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)| AND |Odd Engraving (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Killed Harman Smith And Kun Lan",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)| AND |Odd Engraving (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T5P2) Killed Past Emir",
+    "region": "Target05: Smile Part 2",
+    "category": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile| AND |Wind Ring| AND |Fire Ring| AND |Progressive Soul Shell (Target05 Smile Part 1):7| AND |Soul Shell (Target05 Smile Part 2)| AND |Odd Engraving (Target05 Smile Part 2)|"
+  },
+  {
+    "name": "(T06) Decide The Fate Of Battleship Island",
+    "region": "Target06: Lion",
+    "victory": false,
+    "category": [
+      "Target06: Lion",
+      "Goal"
+    ],
+    "requires": "|Target06 Lion| AND |Progressive Target Killed:4|"
+  },
+  {
+    "name": "(T06) Shot Kun Lan",
+    "region": "Target06: Lion",
+    "victory": true,
+    "category": [
+      "Target06: Lion",
+      "Goal"
+    ],
+    "requires": "|Target06 Lion| AND |Progressive Target Killed:4|"
+  }
+]

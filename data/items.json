@@ -1,0 +1,436 @@
+[
+  {
+    "count": 1,
+    "name": "Target01 Sunset",
+    "category": [
+      "Target"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Target02 Cloudman",
+    "category": [
+      "Target"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Target03 Encounter",
+    "category": [
+      "Target"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Target04 Alter Ego",
+    "category": [
+      "Target"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Target05 Smile",
+    "category": [
+      "Target"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Target06 Lion",
+    "category": [
+      "Target",
+      "Goal"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Odd Engraving (Target00 Angel)",
+    "category": [
+      "Odd Engraving"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Odd Engraving (Target01 Sunset Part 1)",
+    "category": [
+      "Odd Engraving"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Odd Engraving (Target01 Sunset Part 2)",
+    "category": [
+      "Odd Engraving"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Odd Engraving (Target02 Cloudman)",
+    "category": [
+      "Odd Engraving"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Odd Engraving (Target03 Encounter Part 1)",
+    "category": [
+      "Odd Engraving"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Odd Engraving (Target03 Encounter Part 2)",
+    "category": [
+      "Odd Engraving"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Odd Engraving (Target04 Alter Ego)",
+    "category": [
+      "Odd Engraving"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Odd Engraving (Target05 Smile Part 2)",
+    "category": [
+      "Odd Engraving"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Soul Shell (Target00 Angel)",
+    "category": [
+      "Soul Shell"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Soul Shell (Target01 Sunset Part 1)",
+    "category": [
+      "Soul Shell"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Progressive Soul Shell (Target01 Sunset Part 2)",
+    "category": [
+      "Soul Shell"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Soul Shell (Target03 Encounter Part 1)",
+    "category": [
+      "Soul Shell"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Soul Shell (Target03 Encounter Part 2)",
+    "category": [
+      "Soul Shell"
+    ],
+    "progression": true
+  },
+  {
+    "count": "7",
+    "name": "Progressive Soul Shell (Target05 Smile Part 1)",
+    "category": [
+      "Soul Shell"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Soul Shell (Target05 Smile Part 2)",
+    "category": [
+      "Soul Shell"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Ring",
+    "category": [
+      "Ring"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Water Ring",
+    "category": [
+      "Ring"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wind Ring",
+    "category": [
+      "Ring"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Time Ring",
+    "category": [
+      "Ring"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stamina Ring",
+    "category": [
+      "Ring"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Power Ring",
+    "category": [
+      "Ring"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kevin Smith (Target00 Angel)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "MASK De Smith (Target00 Angel)",
+    "category": [
+      "Smith"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dan Smith (Target01 Sunset Part 1)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kevin Smith (Target01 Sunset Part 1)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Con Smith (Target01 Sunset Part 1)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dan Smith (Target01 Sunset Part 2)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Con Smith (Target01 Sunset Part 2)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dan Smith (Target02 Cloudman)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "KAEDE Smith (Target01 Sunset Part 2)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kevin Smith (Target02 Cloudman)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Con Smith (Target02 Cloudman)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": "10",
+    "name": "Progressive Ulmeyda Collection",
+    "category": [
+      "Ulmeyda Collection"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ulmeyda Collection #7",
+    "category": [
+      "Ulmeyda Collection"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ulmeyda Collection #12",
+    "category": [
+      "Ulmeyda Collection"
+    ],
+    "progression": true
+  },
+  {
+    "count": "7",
+    "name": "Progressive Target Killed",
+    "category": [
+      "Target Killed",
+      "Goal Unlock"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dan Smith (Target03 Encounter Part 1)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "KAEDE Smith (Target03 Encounter Part 1)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kevin Smith (Target03 Encounter Part 1)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "KAEDE Smith (Target03 Encounter Part 2)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Coyote Smith (Target03 Encounter Part 2)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "KAEDE Smith (Target04 Alter Ego)",
+    "category": [
+      "Smith"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coyote Smith (Target04 Alter Ego)",
+    "category": [
+      "Smith"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kevin Smith (Target04 Alter Ego)",
+    "category": [
+      "Smith"
+    ],
+    "useful": true
+  },
+  {
+    "count": "9",
+    "name": "Progressive Color Sample",
+    "category": [
+      "Color Sample"
+    ],
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Progressive Cassette Tape",
+    "category": [
+      "Cassette Tape"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cassette Player",
+    "category": [
+      "Cassette Player"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Target00 Angel",
+    "category": [
+      "Starting Target"
+    ],
+    "progression": true
+  }
+]

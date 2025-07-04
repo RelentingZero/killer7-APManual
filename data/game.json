@@ -1,0 +1,14 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "killer7",
+  "creator": "RelentingZero",
+  "filler_item_name": "Narrative Dissonance",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Starting Target"
+      ],
+      "random": 1
+    }
+  ]
+}

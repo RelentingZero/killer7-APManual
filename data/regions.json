@@ -1,0 +1,59 @@
+{
+  "Target00: Angel": {
+    "starting": true,
+    "connects_to": [
+      "Target01: Sunset Part 1",
+      "Target01: Sunset Part 2",
+      "Target02: Cloudman",
+      "Target03: Encounter Part 1",
+      "Target03: Encounter Part 2",
+      "Target04: Alter Ego",
+      "Target05: Smile Part 1",
+      "Target05: Smile Part 2",
+      "Target06: Lion"
+    ],
+    "requires": []
+  },
+  "Target01: Sunset Part 1": {
+    "connects_to": [
+      "Target01: Sunset Part 2"
+    ],
+    "requires": "|Target01 Sunset|"
+  },
+  "Target01: Sunset Part 2": {
+    "connects_to": [],
+    "requires": "|Target01 Sunset|"
+  },
+  "Target02: Cloudman": {
+    "connects_to": [],
+    "requires": "|Target02 Cloudman|"
+  },
+  "Target03: Encounter Part 1": {
+    "connects_to": [
+      "Target03: Encounter Part 2"
+    ],
+    "requires": "|Target03 Encounter|"
+  },
+  "Target03: Encounter Part 2": {
+    "connects_to": [],
+    "requires": "|Target03 Encounter|"
+  },
+  "Target04: Alter Ego": {
+    "connects_to": [],
+    "requires": "|Target04 Alter Ego|"
+  },
+  "Target05: Smile Part 1": {
+    "connects_to": [
+      "Target05: Smile Part 2"
+    ],
+    "requires": "|Target05 Smile|"
+  },
+  "Target05: Smile Part 2": {
+    "connects_to": [],
+    "requires": "|Target05 Smile|"
+  },
+  "Target06: Lion": {
+    "connects_to": [],
+    "requires": "|Target06 Lion| AND |Progressive Target Killed:4|"
+  }
+}
